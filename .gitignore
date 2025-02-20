@@ -1,0 +1,7 @@
+scratch/
+target/
+project_data.sohot
+test/*.obj
+test/*.pdb
+test/*.ilk
+test/*.exe
